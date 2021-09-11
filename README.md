@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nakatoconstance
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning minining software repositiries
-- 💞️ I’m looking to collaborate on using GIT AOI
+- 💞️ I’m looking to collaborate on using GIT API
 - 📫 How to reach me ...
 
 <!---
